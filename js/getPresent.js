@@ -4,7 +4,7 @@ let getPresent = document.getElementById('getPresent'),
     closeGetPresent = document.getElementById('closeGetPresent');
 
 closeGetPresent.onclick = function () {
-        getPresent.style.display = 'none';
+    getPresent.style.display = 'none';
 }
 
 
